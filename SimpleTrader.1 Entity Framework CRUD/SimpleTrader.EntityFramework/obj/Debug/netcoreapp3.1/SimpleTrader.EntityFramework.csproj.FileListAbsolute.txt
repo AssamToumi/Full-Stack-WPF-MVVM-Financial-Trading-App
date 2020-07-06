@@ -1,0 +1,15 @@
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.deps.json
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.dll
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.csprojAssemblyReference.cache
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.AssemblyInfoInputs.cache
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.AssemblyInfo.cs
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.dll
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.csproj.CoreCompileInputs.cache
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.Domain.pdb
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.csproj.CopyComplete
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.runtimeconfig.json
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.runtimeconfig.dev.json
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.pdb
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.dll
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.pdb
+B:\Sources\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\netcoreapp3.1\SimpleTrader.EntityFramework.genruntimeconfig.cache
